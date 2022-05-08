@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end software development!
 - 🌱 I graduated Dickinson College with a major in Computer Science !
 - 💞️ I’m looking to collaborate on more Free Open-Source projects to increase my skill level ! 
-- 📫 How to reach me ...
+- 📫 You can reach me at sonnguyen2076@gmail.com
 
 <!---
 nguyens20/nguyens20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
